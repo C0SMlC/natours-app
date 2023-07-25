@@ -56,3 +56,5 @@ Contributing
 Everyone is  welcome to contribute to the Natours API and Website project. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 Happy coding!
+
+The API and the Website is the part of [Jonas Schmedtmann's](https://www.udemy.com/user/jonasschmedtmann/) [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) course.
